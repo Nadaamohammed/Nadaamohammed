@@ -28,23 +28,23 @@ An ambitious Penetration Testing & Backend Developer , with a passion for Securi
 ### 🔹 Try & Buy ( virtual try on)
 **Technologies:** Springboot , Java , JavaScript
 📌virtual try on clothing 
-🔗 Check out more in my https://github.com/Nadaamohammed/graduation_projectt.git(#)!
+🔗 Check out more in my https://github.com/Nadaamohammed/graduation_projectt.git!
 
 ### 🔹 Doctor hub 
 **Technologies:** Django (python) , css , html
 📌 Consolidated multi-source data  
 📌 Boosted HR efficiency via actionable insights
-🔗 Check out more in my https://github.com/Nadaamohammed/doctor_hub_app.git(#)!
+🔗 Check out more in my https://github.com/Nadaamohammed/doctor_hub_app.git!
 
 ### 🔹 Facebook
 **Technologies:** c# , css  
 📌 it's a website like a facebook
-🔗 Check out more in my https://github.com/Nadaamohammed/facebook.git(#)!
+🔗 Check out more in my https://github.com/Nadaamohammed/facebook.git!
 
 ### 🔹 IT project
 **Technologies:** html  
 📌my first project at faculty
-🔗 Check out more in my https://github.com/Nadaamohammed/it-website.git(#)!
+🔗 Check out more in my https://github.com/Nadaamohammed/it-website.git!
 
 ---
 
@@ -61,7 +61,7 @@ An ambitious Penetration Testing & Backend Developer , with a passion for Securi
 ## 📞 Contact Me
 
 - 📧 **Email**: nadamohamedabdelrahman55@email.com  
-- 🔗 **LinkedIn**: www.linkedin.com/in/nada-abdelrahman-84092b22a(#)
+- 🔗 **LinkedIn**: www.linkedin.com/in/nada-abdelrahman-84092b22a
 
 ---
 
